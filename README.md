@@ -152,3 +152,4 @@ Let me know if you'd like the same in Marathi or need help with deploying it as 
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/1fc1679d-2cbd-4e68-9b89-0ea90ee59d79)
